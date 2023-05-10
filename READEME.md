@@ -5,10 +5,12 @@ wrote in C++, idea and design all from the book "The C++ Programming Language (4
 
 
 ## TODO
-- [x] Coding
-- [x] Compiling
+- [x] Implemention
+- [x] Compile on local os
 - [x] Execution (simpletest.cpp)
 - [ ] Function test
+- [ ] Compile on FX1000 system
+- [ ] Compare with Fortran array
 - [ ] Commentary
 
 
