@@ -1,7 +1,7 @@
 #ifndef SLICE_H
 #define SLICE_H
 
-#include <cstdlib>
+#include <cstddef>
 
 struct slice { 
 
